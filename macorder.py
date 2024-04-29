@@ -232,4 +232,4 @@ while(gameover==False):
     while(returnHomepage!=True):
         printMenu(firstChoice)
 printReceipt(list)
-       
+os.system('pause')
